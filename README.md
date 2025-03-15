@@ -9,17 +9,17 @@
 
 - 👯 I’m open to collaborating on **Fullstack Projects** and **Open Source Contributions**
 
-- 👨‍💻 All of my projects are available at [https://www.anthonymuhoro.com](https://www.anthonymuhoro.com)
+- 👨‍💻 All of my projects are available at (https://muhoroanthony.onrender.com)
 
 - 💬 Ask me about **Web Development**, **Mobile App Development**, and **UI/UX Design**
 
 - 📫 How to reach me **anthonymuhoro@gmail.com**
 
-- 📄 Know about my experiences [https://www.anthonymuhoro.com/resume](https://www.anthonymuhoro.com/resume)
+- 📄 Know about my experiences [https://muhoroanthony.onrender.com/mycv.rtf]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anthony_muhoro" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="anthony_muhoro" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="anthony_muhoro" /></a>
 <a href="https://linkedin.com/in/anthony-muhoro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anthony-muhoro" /></a>
 <a href="https://dev.to/anthonymuhoro" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="anthonymuhoro" /></a>
 <a href="https://hashnode.com/@anthonymuhoro" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="anthonymuhoro" /></a>

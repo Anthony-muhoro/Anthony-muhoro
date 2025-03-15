@@ -42,7 +42,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-muhoro&show_icons=true&locale=en&layout=compact" alt="anthony-muhoro" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=anthony-muhoro&show_icons=true&count_private=true" alt="GitHub stats" />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthony-muhoro&show_icons=true&locale=en" alt="anthony-muhoro" /></p>
 

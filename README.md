@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rental Management System**
 
-- 🌱 I’m proficient in **Next.js**, **React**, **TypeScript**, and **React Native**
+- 🌱 I’m proficient in **Next.js**, **React**, **TypeScript** **Express js**, and **React Native**
 
 - 👯 I’m open to collaborating on **Fullstack Projects** and **Open Source Contributions**
 

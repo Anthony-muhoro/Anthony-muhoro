@@ -1,85 +1,100 @@
-<!-- Stylish GitHub Profile README -->
-<h1 align="center">Hi 👋, I'm Anthony Muhoro</h1>
-<h3 align="center">🚀 Fullstack Developer | Ethical Hacker | AI Enthusiast 🚀</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
+  Hi, I'm <span style="color:#ff5733">Anthony Muhoro</span>
+</h1>
+x
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F75C7E&width=600&lines=Fullstack+Developer+|+React+|+Next.js;Web+%26+Mobile+Solutions+Architect;Passionate+about+Tech+%26+Innovation" alt="Typing Animation" />
+</h2>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00E7FF&width=435&lines=Fullstack+Developer+%7C+AI+%7C+Cybersecurity;Building+scalable+systems;Lover+of+cool+designs+%F0%9F%94%A5;Always+learning+new+techs" alt="Typing Animation" />
+  <img src="https://komarev.com/ghpvc/?username=anthony-muhoro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### **🌍 Connect With Me**
+## 🔥 About Me  
+
+🎯 **Currently Building**: **Rental Management System**  
+🛠️ **Proficient In**: **Next.js, React, TypeScript, Express.js, React Native**  
+🤝 **Open to Collaboration**: Fullstack Projects & Open Source Contributions  
+🌟 **Portfolio**: [Visit Here](https://muhoroanthony.onrender.com)  
+💬 **Ask me about**: Web Development, Mobile Apps, UI/UX Design  
+📧 **Contact Me**: [anthonymuhoro@gmail.com](mailto:anthonymuhoro@gmail.com)  
+📄 **My Resume**: [Download Here](https://muhoroanthony.onrender.com/mycv.rtf)  
+
+---
+
+## 🌐 Connect with Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/anthony-muhoro" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anthony-muhoro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/anthonymuhoro" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="mailto:anthonymuhoro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://hashnode.com/@anthonymuhoro" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@anthonymuhoro" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### **🚀 Skills & Technologies**
-#### **Frontend**
+## 🚀 Languages & Tools  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgresql,mysql,firebase,git,figma,tailwind" />
 </p>
 
-#### **Backend**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
+<marquee scrollamount="6" behavior="alternate">
+  <b>🚀 Always Learning | Always Building | Always Innovating 🚀</b>
+</marquee>
 
-#### **Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+---
 
-#### **Cloud & Tools**
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthony-muhoro&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-muhoro&theme=radical" width="48%" />
+</div>
+
+---
+
+## 🎯 Top Languages  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-muhoro&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🚀 GitHub Contributions  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloudinary-0078D4?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthony-muhoro&theme=react-dark" />
 </p>
 
 ---
 
-### **📊 GitHub Stats**
+## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonymuhoro&show_icons=true&count_private=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonymuhoro&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymuhoro&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anthony-muhoro&theme=radical&column=7" />
 </p>
 
 ---
 
-### **⚡ Fun Facts**
-- 🔥 I’m currently building a **rental hunting app**  
-- 🏆 Active on **Hack The Box**  
-- 🛠️ I build **AI-powered solutions** for businesses  
-- 🌱 Learning **Blockchain & Web3**  
+
 
 ---
 
-### **🚀 My Contributions**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonymuhoro&theme=react-dark" />
-</p>
-
----
-
-### **💡 Want to collaborate?**
-📬 **Reach me at**: [anthonymuhoro@gmail.com](mailto:anthonymuhoro@gmail.com)  
-
-🚀 **Let's build something awesome together!** 🚀
+✨ **Want to work together?** Let's build something awesome! 🚀🔥  

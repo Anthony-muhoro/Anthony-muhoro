@@ -1,29 +1,32 @@
+<!-- Background Styling (For GitHub Dark Mode) -->
+<div align="center" style="background-color:#55ff33; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
   Hi, I'm <span style="color:#ff5733">Anthony Muhoro</span>
 </h1>
-x
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F75C7E&width=600&lines=Fullstack+Developer+|+React+|+Next.js;Web+%26+Mobile+Solutions+Architect;Passionate+about+Tech+%26+Innovation" alt="Typing Animation" />
 </h2>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthony-muhoro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+</div>
+
 ---
 
 ## 🔥 About Me  
 
-🎯 **Currently Building**: **Rental Management System**  
-🛠️ **Proficient In**: **Next.js, React, TypeScript, Express.js, React Native**  
+✅ **Currently Building**: **Rental Management System**  
+🛠 **Tech Stack**: **Next.js, React, JavaScript, Express.js, React Native**  
 🤝 **Open to Collaboration**: Fullstack Projects & Open Source Contributions  
+📧 **Email**: [anthonymuhoro@gmail.com](mailto:anthonymuhoro@gmail.com)  
+🟩📞 **WhatsApp**: [DM me now](https://wa.me/254706471469)  
+📄 **Resume**: [Download Here](https://muhoroanthony.onrender.com/Resume.pdf)  
 🌟 **Portfolio**: [Visit Here](https://muhoroanthony.onrender.com)  
-💬 **Ask me about**: Web Development, Mobile Apps, UI/UX Design  
-📧 **Contact Me**: [anthonymuhoro@gmail.com](mailto:anthonymuhoro@gmail.com) 
-🟩📞 **WhatsApp**: [Dm me now](https://wa.me/254706471469) 
-📄 **My Resume**: [Download Here](https://muhoroanthony.onrender.com/Resume.pdf)  
 
 ---
 
@@ -52,12 +55,8 @@ x
 ## 🚀 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgresql,mysql,firebase,git,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,postgresql,mysql,firebase,git,figma,tailwind" />
 </p>
-
-<marquee scrollamount="6" behavior="alternate">
-  <b>🚀 Always Learning | Always Building | Always Innovating 🚀</b>
-</marquee>
 
 ---
 
@@ -91,10 +90,6 @@ x
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anthony-muhoro&theme=radical&column=7" />
 </p>
-
----
-
-
 
 ---
 

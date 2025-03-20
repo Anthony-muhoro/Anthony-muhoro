@@ -21,8 +21,9 @@ x
 🤝 **Open to Collaboration**: Fullstack Projects & Open Source Contributions  
 🌟 **Portfolio**: [Visit Here](https://muhoroanthony.onrender.com)  
 💬 **Ask me about**: Web Development, Mobile Apps, UI/UX Design  
-📧 **Contact Me**: [anthonymuhoro@gmail.com](mailto:anthonymuhoro@gmail.com)  
-📄 **My Resume**: [Download Here](https://muhoroanthony.onrender.com/mycv.rtf)  
+📧 **Contact Me**: [anthonymuhoro@gmail.com](mailto:anthonymuhoro@gmail.com) 
+🟩📞 **WhatsApp**: [Dm me now](https://wa.me/254706471469) 
+📄 **My Resume**: [Download Here](https://muhoroanthony.onrender.com/Resume.pdf)  
 
 ---
 

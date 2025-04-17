@@ -30,7 +30,7 @@
 
 ---
  ## 💰 You can Support me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anthonymuhoro7@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mrsmith5688@gmail.com) 
 ## 🌐 Connect with Me  
 
 <p align="center">
